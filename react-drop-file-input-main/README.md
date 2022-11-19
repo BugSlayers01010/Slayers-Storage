@@ -15,5 +15,5 @@
 # Demo
     
 # ScreenShot
-    ![Main Picture]("![1](https://user-images.githubusercontent.com/118586041/202855939-2445610d-a0dd-4626-8717-cb115dd7e7e3.jpg)
-https://ibb.co/zSBNTHN")
+    ![1](https://user-images.githubusercontent.com/118586041/202856037-509e6d01-e0ea-47cb-ba3e-a7ed91a25dd9.jpg)
+
