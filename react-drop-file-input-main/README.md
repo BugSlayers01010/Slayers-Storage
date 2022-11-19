@@ -2,14 +2,9 @@
 
     React Drag and Drop file input
 
-# Video tutorial
-
-    https://youtu.be/Aoz0eQAbEUo
-
 # Description
 
-    Build React Drag and Drop file input
-
+    Built a Drag Drop functionality 
 # Resource
 
     Google font: https://fonts.google.com/
